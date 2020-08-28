@@ -9,7 +9,7 @@ function Home() {
             <li>
                 <img
                     src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom1.jpg?ts=1571078789&ims=326x"
-                    alt=""
+                    alt="Tenis"
                 />
                 <strong>Tênis muito legal</strong>
                 <span>R$ 129,90</span>
@@ -26,7 +26,7 @@ function Home() {
             <li>
                 <img
                     src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom1.jpg?ts=1571078789&ims=326x"
-                    alt=""
+                    alt="Tenis"
                 />
                 <strong>Tênis muito legal</strong>
                 <span>R$ 129,90</span>
@@ -43,7 +43,7 @@ function Home() {
             <li>
                 <img
                     src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom1.jpg?ts=1571078789&ims=326x"
-                    alt=""
+                    alt="Tenis"
                 />
                 <strong>Tênis muito legal</strong>
                 <span>R$ 129,90</span>
@@ -60,7 +60,7 @@ function Home() {
             <li>
                 <img
                     src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom1.jpg?ts=1571078789&ims=326x"
-                    alt=""
+                    alt="Tenis"
                 />
                 <strong>Tênis muito legal</strong>
                 <span>R$ 129,90</span>
@@ -77,7 +77,7 @@ function Home() {
             <li>
                 <img
                     src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom1.jpg?ts=1571078789&ims=326x"
-                    alt=""
+                    alt="Tenis"
                 />
                 <strong>Tênis muito legal</strong>
                 <span>R$ 129,90</span>
@@ -94,7 +94,7 @@ function Home() {
             <li>
                 <img
                     src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom1.jpg?ts=1571078789&ims=326x"
-                    alt=""
+                    alt="Tenis"
                 />
                 <strong>Tênis muito legal</strong>
                 <span>R$ 129,90</span>
